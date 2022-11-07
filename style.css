@@ -1,0 +1,33 @@
+body{
+    color: rgb(255, 3, 3);
+    text-align: center;
+    background-color: rgb(16, 18, 43);
+    border-style: solid;
+    border-color: rgb(131, 0, 0);
+    border-width: 15px;
+    margin: 0px;
+    
+}
+li{text-align: left;
+font-size: 25px;
+list-style: none;
+text-align: justify;
+padding-left: 8vw;
+padding-right: 8vw;
+}
+
+.text{
+    text-align: center;
+
+}
+header{
+    text-align: center;
+}
+h3{font-size: 18px;}
+.img{
+    text-align: center;
+    border-style: solid;
+    border-color: blanchedalmond;
+    border-width: 20px;
+    margin: 0px;
+}
